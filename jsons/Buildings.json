@@ -8,8 +8,8 @@
     "gold": 2,
     "happiness": 20,
     "culture": 30,
+    "production": 3,
     "percentStatBonus": {
-      "food": 100,
       "science": 100,
       "gold": 100,
       "production": 100
