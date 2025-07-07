@@ -1,12 +1,10 @@
 [
   {
     "name": "Paper Maker",
-    "replaces": "Library",
     "uniqueTo": "China",
-    "hurryCostModifier": 25,
+    "hurryCostModifier": 5,
     "happiness": 20,
     "culture": 30,
-    "production": 3,
     "percentStatBonus": {
       "food": 100,
       "science": 100,
