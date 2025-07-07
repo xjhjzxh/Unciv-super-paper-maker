@@ -1,9 +1,11 @@
 [
   {
     "name": "Paper Maker",
+    "replaces": "Library",
     "uniqueTo": "China",
     "cost": 5,
     "hurryCostModifier": 5,
+    "gold": 2,
     "happiness": 20,
     "culture": 30,
     "percentStatBonus": {
@@ -12,17 +14,8 @@
       "gold": 100,
       "production": 100
     },
-    "gold": 2,
     "uniques": [
       "[+1 Science] per [2] population [in this city]"
     ]
-  },
-	{
-		"name": "Monument",
-		"culture": 20,
-		"cost": 40,
-		"hurryCostModifier": 40,
-		"maintenance": 1,
-		"uniques": ["Destroyed when the city is captured"]
-	},
+  }
 ]
