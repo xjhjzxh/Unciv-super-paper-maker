@@ -16,5 +16,13 @@
     "uniques": [
       "[+1 Science] per [2] population [in this city]"
     ]
-  }
+  },
+	{
+		"name": "Monument",
+		"culture": 20,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured"]
+	},
 ]
