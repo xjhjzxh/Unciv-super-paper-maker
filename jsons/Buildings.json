@@ -1,15 +1,21 @@
 [
-	
-	{
-		"name": "Paper Maker",
-		"replaces": "Library",
-		"uniqueTo": "China",
-		"hurryCostModifier": 25,
-		"happiness": 20,
-		"culture": 30,
-		"production": 3,
-		"percentStatBonus": {"food": 100, "science": 100, "gold": 100, "production": 100},
-		"gold": 2,
-		"uniques": ["[+1 Science] per [2] population [in this city]"]
-	},
+  {
+    "name": "Paper Maker",
+    "replaces": "Library",
+    "uniqueTo": "China",
+    "hurryCostModifier": 25,
+    "happiness": 20,
+    "culture": 30,
+    "production": 3,
+    "percentStatBonus": {
+      "food": 100,
+      "science": 100,
+      "gold": 100,
+      "production": 100
+    },
+    "gold": 2,
+    "uniques": [
+      "[+1 Science] per [2] population [in this city]"
+    ]
+  }
 ]
