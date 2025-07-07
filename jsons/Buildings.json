@@ -2,6 +2,7 @@
   {
     "name": "Paper Maker",
     "uniqueTo": "China",
+    "cost": 5,
     "hurryCostModifier": 5,
     "happiness": 20,
     "culture": 30,
