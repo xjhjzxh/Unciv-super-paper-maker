@@ -10,9 +10,9 @@
     "culture": 30,
     "production": 3,
     "percentStatBonus": {
-      "science": 100,
-      "gold": 100,
-      "production": 100
+      "science": 50,
+      "gold": 50,
+      "production": 50
     },
     "uniques": [
       "[+1 Science] per [2] population [in this city]"
