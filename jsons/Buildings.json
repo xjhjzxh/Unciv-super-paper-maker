@@ -9,8 +9,7 @@
     "happiness": 20,
     "culture": 30,
     "percentStatBonus": {
-      "science": 50,
-      "gold": 50,
+      "science": 100,
       "production": 50
     },
     "uniques": [
