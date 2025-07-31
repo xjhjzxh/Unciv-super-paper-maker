@@ -15,7 +15,11 @@
       "production": 500
     },
     "uniques": [
-      "[+1 Science] per [2] population [in this city]"
+      "[+1 Science] per [2] population [in this city]",
+      "Provides [4] [Coal]",
+      "Provides [4] [Oil]",
+      "Provides [4] [Aluminum]",
+      "Provides [4] [Uranium]"
     ]
   }
 ]
