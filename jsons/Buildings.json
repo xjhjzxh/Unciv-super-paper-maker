@@ -10,9 +10,9 @@
     "culture": 30,
     "production": 2,
     "percentStatBonus": {
-      "science": 50,
-      "food": 50,
-      "production": 50
+      "science": 500,
+      "food": 500,
+      "production": 500
     },
     "uniques": [
       "[+1 Science] per [2] population [in this city]"
