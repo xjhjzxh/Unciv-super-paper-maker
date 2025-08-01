@@ -16,10 +16,7 @@
     },
     "uniques": [
       "[+1 Science] per [2] population [in this city]",
-      "Provides [2] [Coal]",
-      "Provides [2] [Oil]",
-      "Provides [2] [Aluminum]",
-      "Provides [2] [Uranium]"
+      "[+500]% [Strategic] resource production",
     ]
   }
 ]
