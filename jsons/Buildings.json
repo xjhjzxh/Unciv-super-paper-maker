@@ -3,23 +3,23 @@
     "name": "Paper Maker",
     "replaces": "Library",
     "uniqueTo": "China",
-    "cost": 5,
-    "hurryCostModifier": 5,
+    "cost": 0,
+    "hurryCostModifier": 0,
     "gold": 2,
     "happiness": 20,
     "culture": 30,
     "production": 2,
     "percentStatBonus": {
-      "science": 500,
-      "food": 500,
-      "production": 500
+      "science": 50,
+      "food": 50,
+      "production": 50
     },
     "uniques": [
       "[+1 Science] per [2] population [in this city]",
-      "Provides [4] [Coal]",
-      "Provides [4] [Oil]",
-      "Provides [4] [Aluminum]",
-      "Provides [4] [Uranium]"
+      "Provides [2] [Coal]",
+      "Provides [2] [Oil]",
+      "Provides [2] [Aluminum]",
+      "Provides [2] [Uranium]"
     ]
   }
 ]
