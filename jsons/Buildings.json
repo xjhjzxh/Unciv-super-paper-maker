@@ -1,24 +1,2 @@
 [
-  {
-    "name": "Paper Maker",
-    "replaces": "Library",
-    "uniqueTo": "China",
-    "cost": 0,
-    "hurryCostModifier": 0,
-    "gold": 2,
-    "happiness": 20,
-    "culture": 30,
-    "production": 2,
-    "maintenance": 20,
-    "percentStatBonus": {
-      "science": 50,
-      "food": 50,
-      "production": 50
-    },
-    "uniques": [
-      "[+1 Science] per [2] population [in this city]",
-      "[+100]% [Strategic] resource production",
-      "New [Military] units start with [150] XP [in this city]"
-    ]
-  }
 ]
