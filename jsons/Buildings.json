@@ -9,6 +9,7 @@
     "happiness": 20,
     "culture": 30,
     "production": 2,
+    "maintenance": 20,
     "percentStatBonus": {
       "science": 50,
       "food": 50,
