@@ -8,11 +8,11 @@
     "gold": 2,
     "happiness": 20,
     "culture": 30,
-    "production": 4,
+    "production": 2,
     "percentStatBonus": {
       "science": 50,
       "food": 50,
-      "production": 100
+      "production": 50
     },
     "uniques": [
       "[+1 Science] per [2] population [in this city]",
