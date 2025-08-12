@@ -11,7 +11,7 @@
     "production": 2,
     "percentStatBonus": {
       "science": 50,
-      "food": 50,
+      
       "production": 50
     },
     "uniques": [
