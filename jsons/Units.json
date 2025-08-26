@@ -9,8 +9,8 @@
 		"replaces": "Crossbowman",
 		"cost": 120,
 		"requiredTech": "Machinery",
-		"obsoleteTech": "Chemistry",
-		"upgradesTo": "Cannon",
+		"obsoleteTech": "Dynamite",
+		"upgradesTo": "Artillery",
 		"promotions": ["Logistics"],
 		"attackSound": "crossbow"
 	}
